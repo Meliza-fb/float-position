@@ -1,0 +1,40 @@
+.contenedor{
+  background: red;
+  border: 1px solid blue;
+  overflow: hidden;
+}
+
+h1{
+  text-align: center;
+  font-family:cursive;
+}
+
+li{
+  float: left;
+  height: 40px;
+  margin: 20px;
+}
+
+.IMG2{
+  float: right;
+  margin: 0em 2em;
+  border: 1px solid black;
+}
+
+.IMG1{
+  float: left;
+  margin: 0em 2em;
+  border: 1px solid black;
+}
+
+.fa-gratipay{
+  font-size: 100px;
+  position: relative;
+  left: 240px;
+}
+
+.fa-female{
+  font-size: 100px;
+position: relative;
+left: 250px;
+}
